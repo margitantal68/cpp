@@ -11,3 +11,4 @@
 - [OOP](https://colab.research.google.com/drive/1cFi0wROx7m6sQsloGoO6rZgdXTha9I8R?usp=sharing)
 - [Advanced OOP](https://colab.research.google.com/drive/12BoUlRhQp1Cqm5LWyFIPBkbrXg0MZfCC?usp=sharing)
 - [Operator overloading](https://colab.research.google.com/drive/1DEDD0N_Op9VpGCcxsl85tqXV-tguw6C4?usp=sharing)
+- [Lambdas](https://colab.research.google.com/drive/1Tjf88FZWcNV48iAamvFHRTn1f_mMFW9N?usp=sharing)
